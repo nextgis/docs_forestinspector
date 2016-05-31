@@ -2,7 +2,7 @@
 
 .. NextGIS open geodata portal TOC
 
-NextGIS Forest Inspector documentation
+Документация NextGIS Лесной инспектор
 ==============================================
 
 Содержание:
