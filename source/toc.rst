@@ -12,5 +12,8 @@
 
    intro
    install
+   admin
+   inspector
+   user
 
 
