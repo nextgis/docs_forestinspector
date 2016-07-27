@@ -266,7 +266,7 @@
 
 После завершения ввода нажмите галочку сверху формы.
 
-На экране ведомости пересчёта теперь появится список (см. :numref:`fw_pereschet_data`).
+На экране ведомости пересчёта появится список (см. :numref:`fw_pereschet_data`).
 
 .. figure:: _static/fw_pereschet_data.png
    :name: fw_pereschet_data
@@ -390,7 +390,7 @@
 
 После завершения ввода нажмите галочку сверху формы.
 
-На экране ведомости пересчёта теперь появится список (см. :numref:`fw_pereschet_standalone_data`).
+На экране ведомости пересчёта появится список (см. :numref:`fw_pereschet_standalone_data`).
 
 .. figure:: _static/fw_pereschet_data.png
    :name: fw_pereschet_standalone_data
