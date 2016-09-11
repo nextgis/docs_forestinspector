@@ -1,7 +1,10 @@
-Forest inspector documentation
-------------------------------
+# Forest inspector documentation
 
 User and admin NextGIS forest inspector documentation
+
+Read online:
+
+* Russian - http://docs.nextgis.ru/docs_forestinspector/source/toc.html
 
 License
 -------------
