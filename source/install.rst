@@ -31,7 +31,7 @@ SELinux и nginx
 проблема, описанная в `статье <http://axilleas.me/en/blog/2013/selinux-policy-for-nginx-and-gitlab-unix-socket-in-fedora-19/>`_.
 Для её решения скомпилируем и установим специальный модуль для SELinux:
 
-.. code:: bash
+.. code-block:: bash
 
     checkmodule -M -m -o nginx.mod nginx.te
     semodule_package -o nginx.pp -m nginx.mod
@@ -39,7 +39,7 @@ SELinux и nginx
 
 Содержимое файла ``nginx.te``:
 
-.. code:: bash
+.. code-block:: bash
 
     module nginx 1.0;
 
